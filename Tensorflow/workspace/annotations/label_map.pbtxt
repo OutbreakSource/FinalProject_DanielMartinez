@@ -1,0 +1,24 @@
+item { 
+	name:'A'
+	id:1
+}
+item { 
+	name:'D'
+	id:2
+}
+item { 
+	name:'E'
+	id:3
+}
+item { 
+	name:'I'
+	id:4
+}
+item { 
+	name:'L'
+	id:5
+}
+item { 
+	name:'N'
+	id:6
+}

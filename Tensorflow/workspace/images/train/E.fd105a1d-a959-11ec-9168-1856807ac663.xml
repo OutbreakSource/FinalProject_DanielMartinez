@@ -1,0 +1,26 @@
+<annotation>
+	<folder>E</folder>
+	<filename>E.fd105a1d-a959-11ec-9168-1856807ac663.jpg</filename>
+	<path>C:\Users\danie\PycharmProjects\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\E\E.fd105a1d-a959-11ec-9168-1856807ac663.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>E</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>470</xmin>
+			<ymin>235</ymin>
+			<xmax>558</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

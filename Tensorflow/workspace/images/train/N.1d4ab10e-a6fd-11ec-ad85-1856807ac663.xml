@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>N.1d4ab10e-a6fd-11ec-ad85-1856807ac663.jpg</filename>
+	<path>C:\Users\danie\PycharmProjects\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\N.1d4ab10e-a6fd-11ec-ad85-1856807ac663.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>N</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>549</xmin>
+			<ymin>181</ymin>
+			<xmax>640</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>
