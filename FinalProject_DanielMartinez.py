@@ -1,4 +1,9 @@
-"""Daniel Martinez"""
+"""
+Daniel Martinez
+CS3210
+Feng
+Hand-Sign Detection
+"""
 import os
 import cv2
 import numpy as np
